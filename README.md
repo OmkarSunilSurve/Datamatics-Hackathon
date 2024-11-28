@@ -22,8 +22,6 @@ The shared link to access these files is provided below.
 - Comprehensive automation solution to tackle the problem statement.  
 - Code, documentation, and supporting materials are included in the shared folder.
 
-![Description of the Image](path/to/Flowchart.jpg)
-
 ### Need Help?  
 If you need any further information or face issues accessing the files, feel free to reach out to us at:  
 - [omkar3.rulz@gmail.com](mailto:omkar3.rulz@gmail.com)  
